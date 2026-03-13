@@ -3,3 +3,6 @@
 - Por enquanto, focando apenas em Python.
 - Planejando em ser Engenheiro de IA.
 - Contato: giovanni.guediguian@gmail.com
+
+# Usando e Aprendendo:
+![Python Logo](https://skillicons.dev)
